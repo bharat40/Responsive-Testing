@@ -7,6 +7,7 @@
 .top-section {
   background-color: red;
   height: 60px;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,6 +28,7 @@
     .top-section {
         background-color: red;
         height: 350px;
+        width: 100vw;
         display: flex;
         flex-direction: column;
         justify-content: center;
